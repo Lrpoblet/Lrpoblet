@@ -1,6 +1,6 @@
 # Welcome to my GitHub page! 👋
 
-<div align="center"><img src="tarjeta.png" alt="About me" width="500" ></div>
+<img src="./images/web-developer.gif" alt="Web developer" width="200" >
 
 ## 👩‍💻 About me
 
@@ -41,3 +41,5 @@ Feel free to take a look at my projects. I'm open to any type of collaboration o
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+<img src="./images/tarjeta.png" alt="About me" width="500" >
