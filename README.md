@@ -1,6 +1,6 @@
 # Welcome to my GitHub page! 👋
 
-<img src="./images/web-developer.gif" alt="Web developer" width="200" >
+<img src="./images/card.png" alt="Web developer" width="200" >
 
 ## 👩‍💻 About me
 
@@ -42,4 +42,4 @@ Feel free to take a look at my projects. I'm open to any type of collaboration o
   </a>
 </div>
 
-<img src="./images/tarjeta.png" alt="About me" width="500" >
+<img src="./images/card.png" alt="Card" title="Card" width="500" >
