@@ -1,6 +1,6 @@
 # Welcome to my GitHub page! 👋
 
-<img src="./images/card.png" alt="Web developer" width="200" >
+<img src="./images/web-developer.gif" alt="Web developer" width="200" >
 
 ## 👩‍💻 About me
 
